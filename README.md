@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/leiangelli/frontend-mentor-interactive-rating-vue3)
-- Live Site URL: [Add live site URL here](https://leiangellie-interactive-rating-component.netlify.app/)
+- Solution URL: [https://github.com/leiangelli/frontend-mentor-interactive-rating-vue3](https://github.com/leiangelli/frontend-mentor-interactive-rating-vue3)
+- Live Site URL: [https://leiangellie-interactive-rating-component.netlify.app/](https://leiangellie-interactive-rating-component.netlify.app/)
 
 ### Built with
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/leiangelli)
+- Frontend Mentor - [@leiangelli](https://www.frontendmentor.io/profile/leiangelli)
