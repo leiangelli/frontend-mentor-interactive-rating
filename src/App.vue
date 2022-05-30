@@ -43,7 +43,7 @@
       />
 
       <span class="card__rate">
-        You selected 4 out of 5
+        You selected {{ selectedRate }} out of 5
       </span>
 
       <h2>Thank you!</h2>
