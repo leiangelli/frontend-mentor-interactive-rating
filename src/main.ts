@@ -1,4 +1,4 @@
-await import(/* webpackPreload: true */ `@/sass/style.scss`) 
+import(/* webpackPreload: true */ `@/sass/style.scss`) 
 
 import { createApp } from 'vue'
 import App from './App.vue'
