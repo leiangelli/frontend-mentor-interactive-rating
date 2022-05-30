@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/leiangelli/frontend-mentor-interactive-rating-vue3](https://github.com/leiangelli/frontend-mentor-interactive-rating-vue3)
-- Live Site URL: [https://leiangellie-interactive-rating-component.netlify.app/](https://leiangellie-interactive-rating-component.netlify.app/)
+- Live Site URL: [https://leiangelli-fe-interactive-rating-component.netlify.app//](https://leiangelli-fe-interactive-rating-component.netlify.app//)
 
 ### Built with
 
