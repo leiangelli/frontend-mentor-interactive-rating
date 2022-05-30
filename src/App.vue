@@ -55,6 +55,10 @@
   </section>
 </template>
 
+<style lang="scss">
+@import '@/sass/style.scss';
+</style>
+
 <script lang="ts">
 export default {
   data: () => ({
